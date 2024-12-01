@@ -15,3 +15,4 @@ The DegenToken is a custom ERC20 using Solidity and the OpenZeppelin library the
   - Currency Symbol    : AVAX
   - Block explorer URL : https://subnets-test.avax.network/
 3. Go to https://core.app/tools/testnet-faucet/?subnet=c&token=c to get some test tokens
+4. Deploy the contract using MetaMask as the ENV
